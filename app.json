@@ -5,12 +5,6 @@
   "logo": "https://avatars1.githubusercontent.com/u/34474300?s=280&v=4",
   "keywords": ["python", "pyrogram", "telegram", "forwarder"],
   "image": "heroku/python",
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "free"
-    }
-  },
   "env": {
     "API_ID": {
       "description": "App api_id from https://my.telegram.org"
